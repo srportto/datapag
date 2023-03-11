@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/srportto/portinvestimentos-pi/blob/master/LICENSE)
 
 
-HMV kiqzin20230311 Paciente diz respeito as principais endpoints para atender o paciente de hospital
+HMV kiqzin20230311-v2win Paciente diz respeito as principais endpoints para atender o paciente de hospital
 
 
 ## Requisitos de negócios
